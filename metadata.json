@@ -1,0 +1,8 @@
+{
+  "name": "Fizas Learning Corner",
+  "description": "A comprehensive e-learning marketplace and management system for students and teachers, featuring course creation, progress tracking, and interactive quizzes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
